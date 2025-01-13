@@ -1,3 +1,4 @@
 # inventory
+
 inventory management
-update inventory-insaf ali
+update inventory-insaf ali new
